@@ -12,7 +12,7 @@ public class Review02 {
                 System.out.println("Fizz");
             // iの値が5で割り切れるとき
             } else if (i % 5 == 0) {
-                System.out.println("Bizz");
+                System.out.println("Buzz");
             }else {
                 System.out.println(i);
             }
